@@ -67,6 +67,6 @@ title: ""
 
 ### R packages
 
-* [googledrive](https://github.com/tidyverse/googledrive): an R package that interfaces with Google Drive from R, allowing users to seamlessly manage files on Google Drive from the comfort of their console. 
+* [Fantasyplr](https://github.com/baklouti1994/Fantasyplr): an R package that interfaces with [Fantasy Premier League](https://fantasy.premierleague.com)  game data. 
 
 
