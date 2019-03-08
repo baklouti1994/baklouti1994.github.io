@@ -25,6 +25,8 @@ navbar:
          href: shinyapps.html
        - text : Internships
          href: internships.html
+       - text : Outlier Detection in a Linear Signal with MCMC
+         href: first_work.html
    
     - text: "CV"
       href: https://www.cjoint.com/doc/18_11/HKDwIRgn27o_Curriculum-Vitae-3-.pdf
